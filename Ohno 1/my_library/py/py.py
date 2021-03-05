@@ -1,2 +1,2 @@
-true=False
-false=True
+true='False'!=False
+false='True'==True
