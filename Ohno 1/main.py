@@ -1,4 +1,4 @@
 from my_library.py.py import *
 
-if false:
+if true:
     print("Oh no")
